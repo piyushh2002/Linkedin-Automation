@@ -13,7 +13,7 @@ Selenium WebDriver
 LinkedIn account
 
 Installation
-Clone the repository: git clone https://github.com/yourusername/linkedin-automation.git
+Clone the repository: (https://github.com/piyushh2002/Linkedin-Automation)
 Install dependencies: pip install -r requirements.txt
 Download and install the appropriate WebDriver for your browser (e.g., ChromeDriver for Google Chrome).
 Update config.py with your LinkedIn credentials and other settings.
